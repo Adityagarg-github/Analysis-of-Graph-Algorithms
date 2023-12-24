@@ -1,6 +1,4 @@
-# Analysis of Graph Algorithms 
-
-Overview
+# Overview
 This project demonstrates the implementation of two widely used Minimum Spanning Tree (MST) algorithms: Kruskal's Algorithm and Prim's Algorithm. A Minimum Spanning Tree is a tree that spans all the vertices in a connected, undirected graph while minimizing the total edge weight. These algorithms are useful in various applications such as network design, circuit design, and clustering.
 
 # Kruskal's Algorithm
